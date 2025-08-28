@@ -24,3 +24,8 @@ Pods/
 # Optional: temporary logs or IDE files
 *.log
 
+# Ignore user-specific Xcode data
+*.xcuserdatad
+xcuserdata/
+
+
