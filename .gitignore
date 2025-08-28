@@ -1,0 +1,26 @@
+# Xcode build folders
+build/
+DerivedData/
+
+# User-specific data
+*.xcuserdata
+*.xcscmblueprint
+*.moved-aside
+*.xcsettings
+
+# Debugging / packaging
+*.ipa
+*.dSYM
+*.dSYM.zip
+
+# Package managers
+Pods/
+.swiftpm/
+.build/
+
+# macOS system files
+.DS_Store
+
+# Optional: temporary logs or IDE files
+*.log
+

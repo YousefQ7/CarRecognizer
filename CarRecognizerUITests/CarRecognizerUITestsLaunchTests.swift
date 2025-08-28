@@ -1,9 +1,3 @@
-//
-//  CarRecognizerUITestsLaunchTests.swift
-//  CarRecognizerUITests
-//
-//  Created by Yousef Qudah on 8/13/25.
-//
 
 import XCTest
 

@@ -1,9 +1,3 @@
-//
-//  CarRecognizerTests.swift
-//  CarRecognizerTests
-//
-//  Created by Yousef Qudah on 8/13/25.
-//
 
 import Testing
 @testable import CarRecognizer

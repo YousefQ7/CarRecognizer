@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		7132F2F62E604AB3000415F8 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 7132F2F52E604AAA000415F8 /* .gitignore */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		710A3EDD2E4DB71200BFB3A9 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -27,6 +31,7 @@
 		710A3ECF2E4DB71100BFB3A9 /* CarRecognizer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CarRecognizer.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		710A3EDC2E4DB71200BFB3A9 /* CarRecognizerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CarRecognizerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		710A3EE62E4DB71200BFB3A9 /* CarRecognizerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CarRecognizerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		7132F2F52E604AAA000415F8 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -75,6 +80,7 @@
 		710A3EC62E4DB71100BFB3A9 = {
 			isa = PBXGroup;
 			children = (
+				7132F2F52E604AAA000415F8 /* .gitignore */,
 				710A3ED12E4DB71100BFB3A9 /* CarRecognizer */,
 				710A3EDF2E4DB71200BFB3A9 /* CarRecognizerTests */,
 				710A3EE92E4DB71200BFB3A9 /* CarRecognizerUITests */,
@@ -212,6 +218,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7132F2F62E604AB3000415F8 /* .gitignore in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
